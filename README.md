@@ -1,0 +1,4 @@
+empty
+=====
+
+test git clone
